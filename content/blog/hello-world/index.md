@@ -3,9 +3,9 @@ title: Hello | Netlify
 date: 2020-08-24T02:02:41.450Z
 description: Hello | Netlify
 ---
-This is my first post on my new fake blog! How exciting!
+**This is my first post on my new fake blog! How exciting!**
 
-I'm sure I'll write a lot more interesting things in the future.
+**I'm sure I'll write a lot more interesting things in the future.**
 
 Oh, and here's a great quote from this Wikipedia on
 [salted duck eggs](https://en.wikipedia.org/wiki/Salted_duck_egg).
