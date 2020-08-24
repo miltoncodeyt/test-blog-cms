@@ -1,7 +1,7 @@
 ---
 title: Hello | Netlify
 date: 2020-08-24T02:02:41.450Z
-description: Hello World
+description: Hello | Netlify
 ---
 This is my first post on my new fake blog! How exciting!
 
