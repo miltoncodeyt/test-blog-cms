@@ -1,6 +1,6 @@
 ---
-title: Hello World
-date: 2015-05-01T22:12:03.284Z
+title: Hello | Netlify
+date: 2020-08-24T02:02:41.450Z
 description: Hello World
 ---
 This is my first post on my new fake blog! How exciting!
