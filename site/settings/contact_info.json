@@ -1,0 +1,9 @@
+{
+  "phone": "57 3232616161",
+  "email": "email@email.com",
+  "address": {
+    "street": "513 Lorem ipsum dolor sit ",
+    "street2": "513 Lorem ipsum dolor sit ",
+    "city": "513 Lorem ipsum dolor sit "
+  }
+}
